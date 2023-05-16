@@ -1,0 +1,74 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts: 
+  - caption: INFORMACIÓN CURSADA
+    chapters:
+    - file: cronograma
+    - file: notebooks
+    - file: markdown-notebooks
+    - file: biblio
+    - file: preguntas
+
+  - caption: SEMANA 1
+    numbered: True
+    chapters:
+    - file: T1
+    - file: P1
+
+  - caption: SEMANA 2
+    chapters:
+    - file: T2
+    - file: P2
+
+  - caption: SEMANA 3
+    chapters:
+    - file: T3
+    - file: P3
+
+  - caption: SEMANA 4
+    chapters:
+    - file: T4
+    - file: P4
+
+  - caption: SEMANA 5
+    chapters:
+    - file: T5
+    - file: P5
+
+  - caption: SEMANA 6
+    chapters:
+    - file: T6
+    - file: P6
+
+  - caption: SEMANA 7
+    chapters:
+    - file: T7
+    - file: P7
+
+  - caption: SEMANA 8
+    chapters:
+    - file: T8
+    - file: P8
+
+  - caption: SEMANA 9
+    chapters:
+    - file: T9
+    - file: P9
+
+  - caption: SEMANA 10
+    chapters:
+    - file: T10
+    - file: P10
+
+  - caption: SEMANA 11
+    chapters:
+    - file: T11
+    - file: P11
+
+  - caption: SEMANA 12
+    chapters:
+    - file: T12
+    - file: P12
